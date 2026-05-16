@@ -1,0 +1,92 @@
+# ── Compiled output ─────────────────────────────────────────────────────────
+dist/
+build/
+out/
+lib/
+
+# TypeScript cache and incremental build info
+# https://www.typescriptlang.org/tsconfig#incremental
+*.tsbuildinfo
+
+# ── Dependencies ─────────────────────────────────────────────────────────────
+node_modules/
+
+# Optional npm / yarn / pnpm caches
+.npm/
+.yarn/
+.pnpm-store/
+.pnp.*
+
+# Package manager lock files (keep the one your project uses; ignore the rest)
+# Uncomment the lock file(s) you do NOT use:
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# ── Environment & secrets ────────────────────────────────────────────────────
+# https://12factor.net/config
+.env
+.env.*
+!.env.example
+!.env.test
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── Test & coverage output ───────────────────────────────────────────────────
+coverage/
+.nyc_output/
+
+# Vitest / Jest cache
+.vitest-cache/
+.jest-cache/
+
+# ── OS artefacts ─────────────────────────────────────────────────────────────
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ── Editor & IDE ─────────────────────────────────────────────────────────────
+# VS Code — keep .vscode/extensions.json and .vscode/settings.json if shared
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── Build tooling caches ──────────────────────────────────────────────────────
+.cache/
+.parcel-cache/
+.turbo/
+.eslintcache
+.stylelintcache
+
+# Vite / Rollup
+.vite/
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.tgz
+*.tar.gz
+tmp/
+temp/
