@@ -1,0 +1,32 @@
+{
+  "name": "tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-lister.js",
+  "scripts": {
+    "dev": "tsx --watch --env-file=.env src/index.ts",
+    "dev-no-watch": "tsx --env-file=.env src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taffyb/tv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taffyb/tv/issues"
+  },
+  "homepage": "https://github.com/taffyb/tv#readme",
+  "devDependencies": {
+    "@neo4j/cypher-builder": "^3.2.1",
+    "@types/node": "^25.8.0",
+    "tsx": "^4.22.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "neo4j-driver": "^6.0.1"
+  }
+}
