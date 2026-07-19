@@ -1,9 +1,8 @@
-CALL apoc.periodic.iterate(
-  "LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com//taffyb/tv/main/temp/roles.csv' AS row FIELDTERMINATOR '\t' RETURN row",
-  "MATCH (a:Actor {imdbId: row.nconst}))-[r:ACTED_IN]->(e:Episode {imdbId: row.tconst})
-   WHERE size(split(row.characters,',')) =1
-   SET r.role = row.characters[0]",
-  {batchSize: 500, parallel: false}
-)
-YIELD batches, total, errorMessages
-RETURN batches, total, errorMessages
+LOAD CSV WITH HEADERS 
+   FROM 'https://raw.githubusercontent.com//taffyb/tv/main/src/data/roles.csv' AS row 
+WITH row
+WHERE row.characters <> "\N"
+WITH row, apoc.convert.fromJsonList(row.characters) AS characters
+MATCH (a:Actor {imdbId: row.nconst})-[r :APPEARED_IN]->(e:Episode{imdbId: row.tconst})
+SET r.character=characters[0]
+RETURN count(r)
