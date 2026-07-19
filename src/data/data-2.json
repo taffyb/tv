@@ -1,0 +1,2573 @@
+{
+"tv_series":
+    [
+        {
+        "end_date": "NA",
+        "imdbId": "tt27497448",
+        "name": "A Knight of the Seven Kingdoms",
+        "season_count": 1,
+        "seasons":
+            [
+                {
+                "episode_count": 6,
+                "episodes":
+                    [
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "Peter",
+                                "actorFullName": "Peter Claffey",
+                                "actorLastName": "Claffey",
+                                "characterName": "Ser Duncan 'Dunk' the Tall",
+                                "imdbId": "nm12853749",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Dexter Sol",
+                                "actorFullName": "Dexter Sol Ansell",
+                                "actorLastName": "Ansell",
+                                "characterName": "Egg",
+                                "imdbId": "nm11274700",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Ings",
+                                "actorLastName": "Ings",
+                                "characterName": "Ser Lyonel 'The Laughing Storm' Baratheon",
+                                "imdbId": "nm3958526",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Shaun",
+                                "actorFullName": "Shaun Thomas",
+                                "actorLastName": "Thomas",
+                                "characterName": "Raymun Fossoway",
+                                "imdbId": "nm5649091",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Finn",
+                                "actorFullName": "Finn Bennett",
+                                "actorLastName": "Bennett",
+                                "characterName": "Prince Aerion 'Brightflame' Targaryen",
+                                "imdbId": "nm3882611",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Monks",
+                                "actorLastName": "Monks",
+                                "characterName": "Ser Manfred Dondarrion",
+                                "imdbId": "nm7186208",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Danny",
+                                "actorFullName": "Danny Webb",
+                                "actorLastName": "Webb",
+                                "characterName": "Ser Arlan of Pennytree",
+                                "imdbId": "nm0915756",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Tanzyn",
+                                "actorFullName": "Tanzyn Crawford",
+                                "actorLastName": "Crawford",
+                                "characterName": "Tanselle",
+                                "imdbId": "nm10624980",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "18-Jan-2026",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm2787176",
+                                "name": "Owen Harris"
+                                }
+                            ],
+                        "id": "tt27497823",
+                        "name": "The Hedge Knight",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm6358299",
+                                "name": "Ira Parker"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "Peter",
+                                "actorFullName": "Peter Claffey",
+                                "actorLastName": "Claffey",
+                                "characterName": "Ser Duncan 'Dunk' the Tall",
+                                "imdbId": "nm12853749",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Dexter Sol",
+                                "actorFullName": "Dexter Sol Ansell",
+                                "actorLastName": "Ansell",
+                                "characterName": "Egg",
+                                "imdbId": "nm11274700",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Bertie",
+                                "actorFullName": "Bertie Carvel",
+                                "actorLastName": "Carvel",
+                                "characterName": "Prince Baelor 'Breakspear' Targaryen",
+                                "imdbId": "nm1584487",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Ings",
+                                "actorLastName": "Ings",
+                                "characterName": "Ser Lyonel 'The Laughing Storm' Baratheon",
+                                "imdbId": "nm3958526",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Shaun",
+                                "actorFullName": "Shaun Thomas",
+                                "actorLastName": "Thomas",
+                                "characterName": "Raymun Fossoway",
+                                "imdbId": "nm5649091",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Finn",
+                                "actorFullName": "Finn Bennett",
+                                "actorLastName": "Bennett",
+                                "characterName": "Prince Aerion 'Brightflame' Targaryen",
+                                "imdbId": "nm3882611",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Sam",
+                                "actorFullName": "Sam Spruell",
+                                "actorLastName": "Spruell",
+                                "characterName": "Prince Maekar Targaryen",
+                                "imdbId": "nm0819874",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Tanzyn",
+                                "actorFullName": "Tanzyn Crawford",
+                                "actorLastName": "Crawford",
+                                "characterName": "Tanselle",
+                                "imdbId": "nm10624980",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Danny",
+                                "actorFullName": "Danny Webb",
+                                "actorLastName": "Webb",
+                                "characterName": "Ser Arlan of Pennytree",
+                                "imdbId": "nm0915756",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "25-Jan-2026",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm2787176",
+                                "name": "Owen Harris"
+                                }
+                            ],
+                        "id": "tt32314131",
+                        "name": "Hard Salt Beef",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm10088362",
+                                "name": "Aziza Barnes"
+                                },
+                                {
+                                "imdbId": "nm6358299",
+                                "name": "Ira Parker"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "Peter",
+                                "actorFullName": "Peter Claffey",
+                                "actorLastName": "Claffey",
+                                "characterName": "Ser Duncan 'Dunk' the Tall",
+                                "imdbId": "nm12853749",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Dexter Sol",
+                                "actorFullName": "Dexter Sol Ansell",
+                                "actorLastName": "Ansell",
+                                "characterName": "Egg",
+                                "imdbId": "nm11274700",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Bertie",
+                                "actorFullName": "Bertie Carvel",
+                                "actorLastName": "Carvel",
+                                "characterName": "Prince Baelor 'Breakspear' Targaryen",
+                                "imdbId": "nm1584487",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Ings",
+                                "actorLastName": "Ings",
+                                "characterName": "Ser Lyonel 'The Laughing Storm' Baratheon",
+                                "imdbId": "nm3958526",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Shaun",
+                                "actorFullName": "Shaun Thomas",
+                                "actorLastName": "Thomas",
+                                "characterName": "Raymun Fossoway",
+                                "imdbId": "nm5649091",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Finn",
+                                "actorFullName": "Finn Bennett",
+                                "actorLastName": "Bennett",
+                                "characterName": "Prince Aerion 'Brightflame' Targaryen",
+                                "imdbId": "nm3882611",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Sam",
+                                "actorFullName": "Sam Spruell",
+                                "actorLastName": "Spruell",
+                                "characterName": "Prince Maekar Targaryen",
+                                "imdbId": "nm0819874",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Tanzyn",
+                                "actorFullName": "Tanzyn Crawford",
+                                "actorLastName": "Crawford",
+                                "characterName": "Tanselle",
+                                "imdbId": "nm10624980",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Monks",
+                                "actorLastName": "Monks",
+                                "characterName": "Ser Manfred Dondarrion",
+                                "imdbId": "nm7186208",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "01-Feb-2026",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm2262138",
+                                "name": "Sarah Adina Smith"
+                                }
+                            ],
+                        "id": "tt32314197",
+                        "name": "The Squire",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1564800",
+                                "name": "Hiram Martinez"
+                                },
+                                {
+                                "imdbId": "nm8091876",
+                                "name": "Annie Julia Wyman"
+                                },
+                                {
+                                "imdbId": "nm6358299",
+                                "name": "Ira Parker"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "Peter",
+                                "actorFullName": "Peter Claffey",
+                                "actorLastName": "Claffey",
+                                "characterName": "Ser Duncan 'Dunk' the Tall",
+                                "imdbId": "nm12853749",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Dexter Sol",
+                                "actorFullName": "Dexter Sol Ansell",
+                                "actorLastName": "Ansell",
+                                "characterName": "Egg",
+                                "imdbId": "nm11274700",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Bertie",
+                                "actorFullName": "Bertie Carvel",
+                                "actorLastName": "Carvel",
+                                "characterName": "Prince Baelor 'Breakspear' Targaryen",
+                                "imdbId": "nm1584487",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Ings",
+                                "actorLastName": "Ings",
+                                "characterName": "Ser Lyonel 'The Laughing Storm' Baratheon",
+                                "imdbId": "nm3958526",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Shaun",
+                                "actorFullName": "Shaun Thomas",
+                                "actorLastName": "Thomas",
+                                "characterName": "Raymun Fossoway",
+                                "imdbId": "nm5649091",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Finn",
+                                "actorFullName": "Finn Bennett",
+                                "actorLastName": "Bennett",
+                                "characterName": "Prince Aerion 'Brightflame' Targaryen",
+                                "imdbId": "nm3882611",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Sam",
+                                "actorFullName": "Sam Spruell",
+                                "actorLastName": "Spruell",
+                                "characterName": "Prince Maekar Targaryen",
+                                "imdbId": "nm0819874",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Monks",
+                                "actorLastName": "Monks",
+                                "characterName": "Ser Manfred Dondarrion",
+                                "imdbId": "nm7186208",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ross",
+                                "actorFullName": "Ross Anderson",
+                                "actorLastName": "Anderson",
+                                "characterName": "Ser Humfrey Hardyng",
+                                "imdbId": "nm3484836",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "08-Feb-2026",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm2262138",
+                                "name": "Sarah Adina Smith"
+                                }
+                            ],
+                        "id": "tt32314201",
+                        "name": "Seven",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm10088362",
+                                "name": "Aziza Barnes"
+                                },
+                                {
+                                "imdbId": "nm8091876",
+                                "name": "Annie Julia Wyman"
+                                },
+                                {
+                                "imdbId": "nm6358299",
+                                "name": "Ira Parker"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "Peter",
+                                "actorFullName": "Peter Claffey",
+                                "actorLastName": "Claffey",
+                                "characterName": "Ser Duncan 'Dunk' the Tall",
+                                "imdbId": "nm12853749",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Dexter Sol",
+                                "actorFullName": "Dexter Sol Ansell",
+                                "actorLastName": "Ansell",
+                                "characterName": "Egg",
+                                "imdbId": "nm11274700",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Bertie",
+                                "actorFullName": "Bertie Carvel",
+                                "actorLastName": "Carvel",
+                                "characterName": "Prince Baelor 'Breakspear' Targaryen",
+                                "imdbId": "nm1584487",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Ings",
+                                "actorLastName": "Ings",
+                                "characterName": "Ser Lyonel 'The Laughing Storm' Baratheon",
+                                "imdbId": "nm3958526",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Shaun",
+                                "actorFullName": "Shaun Thomas",
+                                "actorLastName": "Thomas",
+                                "characterName": "Raymun Fossoway",
+                                "imdbId": "nm5649091",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Finn",
+                                "actorFullName": "Finn Bennett",
+                                "actorLastName": "Bennett",
+                                "characterName": "Prince Aerion 'Brightflame' Targaryen",
+                                "imdbId": "nm3882611",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Sam",
+                                "actorFullName": "Sam Spruell",
+                                "actorLastName": "Spruell",
+                                "characterName": "Prince Maekar Targaryen",
+                                "imdbId": "nm0819874",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Monks",
+                                "actorLastName": "Monks",
+                                "characterName": "Ser Manfred Dondarrion",
+                                "imdbId": "nm7186208",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ross",
+                                "actorFullName": "Ross Anderson",
+                                "actorLastName": "Anderson",
+                                "characterName": "Ser Humfrey Hardyng",
+                                "imdbId": "nm3484836",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "15-Feb-2026",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm2787176",
+                                "name": "Owen Harris"
+                                }
+                            ],
+                        "id": "tt32314204",
+                        "name": "In the Name of the Mother",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1564800",
+                                "name": "Hiram Martinez"
+                                },
+                                {
+                                "imdbId": "nm3193737",
+                                "name": "Ti Mikkel"
+                                },
+                                {
+                                "imdbId": "nm6358299",
+                                "name": "Ira Parker"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "Peter",
+                                "actorFullName": "Peter Claffey",
+                                "actorLastName": "Claffey",
+                                "characterName": "Ser Duncan 'Dunk' the Tall",
+                                "imdbId": "nm12853749",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Dexter Sol",
+                                "actorFullName": "Dexter Sol Ansell",
+                                "actorLastName": "Ansell",
+                                "characterName": "Egg",
+                                "imdbId": "nm11274700",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Daniel",
+                                "actorFullName": "Daniel Ings",
+                                "actorLastName": "Ings",
+                                "characterName": "Ser Lyonel 'The Laughing Storm' Baratheon",
+                                "imdbId": "nm3958526",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Shaun",
+                                "actorFullName": "Shaun Thomas",
+                                "actorLastName": "Thomas",
+                                "characterName": "Raymun Fossoway",
+                                "imdbId": "nm5649091",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Sam",
+                                "actorFullName": "Sam Spruell",
+                                "actorLastName": "Spruell",
+                                "characterName": "Prince Maekar Targaryen",
+                                "imdbId": "nm0819874",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "22-Feb-2026",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm2262138",
+                                "name": "Sarah Adina Smith"
+                                }
+                            ],
+                        "id": "tt32314212",
+                        "name": "The Morrow",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm6358299",
+                                "name": "Ira Parker"
+                                },
+                                {
+                                "imdbId": "nm3193737",
+                                "name": "Ti Mikkel"
+                                }
+                            ]
+                        }
+                    ],
+                "season_aired": "18-Jan-2026",
+                "season_number": 1
+                }
+            ],
+        "start_date": "18-Jan-2026"
+        },
+        {
+        "end_date": "22-Oct-2012",
+        "imdbId": "tt1183865",
+        "name": "Alphas",
+        "season_count": 2,
+        "seasons":
+            [
+                {
+                "episode_count": 11,
+                "episodes":
+                    [
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Mahershala",
+                                "actorFullName": "Mahershala Ali",
+                                "actorLastName": "Ali",
+                                "characterName": "Nathan Clay",
+                                "imdbId": "nm0991810",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "11-Jul-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0069478",
+                                "name": "Jack Bender"
+                                }
+                            ],
+                        "id": "tt1185995",
+                        "name": "Pilot",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0671948",
+                                "name": "Zak Penn"
+                                },
+                                {
+                                "imdbId": "nm1718618",
+                                "name": "Michael Karnow"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Mahershala",
+                                "actorFullName": "Mahershala Ali",
+                                "actorLastName": "Ali",
+                                "characterName": "Nathan Clay",
+                                "imdbId": "nm0991810",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "18-Jul-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0537460",
+                                "name": "Constantine Makris"
+                                }
+                            ],
+                        "id": "tt1185997",
+                        "name": "Cause and Effect",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm2578518",
+                                "name": "Julie Siege"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Tatiana",
+                                "actorFullName": "Tatiana Maslany",
+                                "actorLastName": "Maslany",
+                                "characterName": "Tracy Beaumont",
+                                "imdbId": "nm1137209",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "25-Jul-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0178961",
+                                "name": "Nick Copus"
+                                }
+                            ],
+                        "id": "tt1185996",
+                        "name": "Anger Management",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0067407",
+                                "name": "Ira Steven Behr"
+                                },
+                                {
+                                "imdbId": "nm0938777",
+                                "name": "Robert Hewitt Wolfe"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Mahershala",
+                                "actorFullName": "Mahershala Ali",
+                                "actorLastName": "Ali",
+                                "characterName": "Nathan Clay",
+                                "imdbId": "nm0991810",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "01-Aug-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0311978",
+                                "name": "Karen Gaviola"
+                                }
+                            ],
+                        "id": "tt1185998",
+                        "name": "Rosetta",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0671948",
+                                "name": "Zak Penn"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Lindsay",
+                                "actorFullName": "Lindsay Wagner",
+                                "actorLastName": "Wagner",
+                                "characterName": "Dr. Vanessa Calder",
+                                "imdbId": "nm0915417",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "08-Aug-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0403697",
+                                "name": "Jeffrey Hunt"
+                                }
+                            ],
+                        "id": "tt1185999",
+                        "name": "Never Let Me Go",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm3428748",
+                                "name": "Jordan Rosenberg"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Alaina",
+                                "actorFullName": "Alaina Huffman",
+                                "actorLastName": "Huffman",
+                                "characterName": "Sarah Nelson",
+                                "imdbId": "nm0402277",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "15-Aug-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0509514",
+                                "name": "Leslie Libman"
+                                }
+                            ],
+                        "id": "tt1977150",
+                        "name": "Bill and Gary's Excellent Adventure",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1978494",
+                                "name": "Adam Levy"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Mahershala",
+                                "actorFullName": "Mahershala Ali",
+                                "actorLastName": "Ali",
+                                "characterName": "Nathan Clay",
+                                "imdbId": "nm0991810",
+                                "type": "guest star"
+                                },
+                                {
+                                "actorFirstName": "Summer",
+                                "actorFullName": "Summer Glau",
+                                "actorLastName": "Glau",
+                                "characterName": "Skylar Adams",
+                                "imdbId": "nm0334516",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "22-Aug-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0393686",
+                                "name": "Kevin Hooks"
+                                }
+                            ],
+                        "id": "tt1186000",
+                        "name": "Catch and Release",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1718618",
+                                "name": "Michael Karnow"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Garret",
+                                "actorFullName": "Garret Dillahunt",
+                                "actorLastName": "Dillahunt",
+                                "characterName": "Jonas Englin",
+                                "imdbId": "nm0228888",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "29-Aug-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0802296",
+                                "name": "John F. Showalter"
+                                }
+                            ],
+                        "id": "tt1990458",
+                        "name": "A Short Time in Paradise",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm2280754",
+                                "name": "Michael Chamoy"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Brent",
+                                "actorFullName": "Brent Spiner",
+                                "actorLastName": "Spiner",
+                                "characterName": "Dr. Kern",
+                                "imdbId": "nm0811191",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "12-Sep-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0916273",
+                                "name": "Michael Watkins"
+                                }
+                            ],
+                        "id": "tt2008041",
+                        "name": "Blind Spot",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0067407",
+                                "name": "Ira Steven Behr"
+                                },
+                                {
+                                "imdbId": "nm0938777",
+                                "name": "Robert Hewitt Wolfe"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Mahershala",
+                                "actorFullName": "Mahershala Ali",
+                                "actorLastName": "Ali",
+                                "characterName": "Nathan Clay",
+                                "imdbId": "nm0991810",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "19-Sep-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0865843",
+                                "name": "J. Miller Tobin"
+                                }
+                            ],
+                        "id": "tt2008042",
+                        "name": "The Unusual Suspects",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0672780",
+                                "name": "Marc Bernardin"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "John",
+                                "actorFullName": "John Pyper-Ferguson",
+                                "actorLastName": "Pyper-Ferguson",
+                                "characterName": "Stanton Parish",
+                                "imdbId": "nm0701561",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "26-Sep-2011",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0178961",
+                                "name": "Nick Copus"
+                                }
+                            ],
+                        "id": "tt2015548",
+                        "name": "Original Sin",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0067407",
+                                "name": "Ira Steven Behr"
+                                },
+                                {
+                                "imdbId": "nm0938777",
+                                "name": "Robert Hewitt Wolfe"
+                                }
+                            ]
+                        }
+                    ],
+                "season_aired": "11-Jul-2011",
+                "season_number": 1
+                },
+                {
+                "episode_count": 13,
+                "episodes":
+                    [
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Mahershala",
+                                "actorFullName": "Mahershala Ali",
+                                "actorLastName": "Ali",
+                                "characterName": "Nathan Clay",
+                                "imdbId": "nm0991810",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "23-Jul-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0369758",
+                                "name": "Matt Hastings"
+                                }
+                            ],
+                        "id": "tt2081607",
+                        "name": "Wake Up Call",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0938777",
+                                "name": "Robert Hewitt Wolfe"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "30-Jul-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0620003",
+                                "name": "Michael Nankin"
+                                }
+                            ],
+                        "id": "tt2245448",
+                        "name": "The Quick and the Dead",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1718618",
+                                "name": "Michael Karnow"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "John",
+                                "actorFullName": "John Pyper-Ferguson",
+                                "actorLastName": "Pyper-Ferguson",
+                                "characterName": "Stanton Parish",
+                                "imdbId": "nm0701561",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "06-Aug-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0178961",
+                                "name": "Nick Copus"
+                                }
+                            ],
+                        "id": "tt2383113",
+                        "name": "Alpha Dogs",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1885765",
+                                "name": "Eric Tuchman"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "13-Aug-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0554047",
+                                "name": "Omar Madha"
+                                }
+                            ],
+                        "id": "tt2156046",
+                        "name": "When Push Comes to Shove",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1978494",
+                                "name": "Adam Levy"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "20-Aug-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0509514",
+                                "name": "Leslie Libman"
+                                }
+                            ],
+                        "id": "tt2162166",
+                        "name": "Gaslight",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm2066804",
+                                "name": "Terri Hughes Burton"
+                                },
+                                {
+                                "imdbId": "nm0585576",
+                                "name": "Ron Milbauer"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Summer",
+                                "actorFullName": "Summer Glau",
+                                "actorLastName": "Glau",
+                                "characterName": "Skylar Adams",
+                                "imdbId": "nm0334516",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "27-Aug-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0178961",
+                                "name": "Nick Copus"
+                                }
+                            ],
+                        "id": "tt2175108",
+                        "name": "Alphaville",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm2280754",
+                                "name": "Michael Chamoy"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "John",
+                                "actorFullName": "John Pyper-Ferguson",
+                                "actorLastName": "Pyper-Ferguson",
+                                "characterName": "Stanton Parish",
+                                "imdbId": "nm0701561",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "10-Sep-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0025207",
+                                "name": "Mairzee Almas"
+                                }
+                            ],
+                        "id": "tt2174950",
+                        "name": "Gods and Monsters",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm2601271",
+                                "name": "Kira Snyder"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "17-Sep-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0178961",
+                                "name": "Nick Copus"
+                                }
+                            ],
+                        "id": "tt2207724",
+                        "name": "Falling",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm3133895",
+                                "name": "Nina Fiore"
+                                },
+                                {
+                                "imdbId": "nm3133896",
+                                "name": "John Herrera"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "John",
+                                "actorFullName": "John Pyper-Ferguson",
+                                "actorLastName": "Pyper-Ferguson",
+                                "characterName": "Stanton Parish",
+                                "imdbId": "nm0701561",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "24-Sep-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0369758",
+                                "name": "Matt Hastings"
+                                }
+                            ],
+                        "id": "tt2250968",
+                        "name": "The Devil Will Drag You Under",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0938777",
+                                "name": "Robert Hewitt Wolfe"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                }
+                            ],
+                        "date_aired": "01-Oct-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0865843",
+                                "name": "J. Miller Tobin"
+                                }
+                            ],
+                        "id": "tt2303338",
+                        "name": "Life After Death",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1885765",
+                                "name": "Eric Tuchman"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Sean",
+                                "actorFullName": "Sean Astin",
+                                "actorLastName": "Astin",
+                                "characterName": "Mitchell",
+                                "imdbId": "nm0044837",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "08-Oct-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0470506",
+                                "name": "Allan Kroeker"
+                                }
+                            ],
+                        "id": "tt2270976",
+                        "name": "If Memory Serves",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm2066804",
+                                "name": "Terri Hughes Burton"
+                                },
+                                {
+                                "imdbId": "nm0585576",
+                                "name": "Ron Milbauer"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Summer",
+                                "actorFullName": "Summer Glau",
+                                "actorLastName": "Glau",
+                                "characterName": "Skylar Adams",
+                                "imdbId": "nm0334516",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "15-Oct-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0178961",
+                                "name": "Nick Copus"
+                                }
+                            ],
+                        "id": "tt2389318",
+                        "name": "Need to Know",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm1718618",
+                                "name": "Michael Karnow"
+                                },
+                                {
+                                "imdbId": "nm1978494",
+                                "name": "Adam Levy"
+                                }
+                            ]
+                        },
+                        {
+                        "cast":
+                            [
+                                {
+                                "actorFirstName": "David",
+                                "actorFullName": "David Strathairn",
+                                "actorLastName": "Strathairn",
+                                "characterName": "Dr. Lee Rosen",
+                                "imdbId": "nm0000657",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Ryan",
+                                "actorFullName": "Ryan Cartwright",
+                                "actorLastName": "Cartwright",
+                                "characterName": "Gary Bell",
+                                "imdbId": "nm0142206",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Warren",
+                                "actorFullName": "Warren Christie",
+                                "actorLastName": "Christie",
+                                "characterName": "Cameron Hicks",
+                                "imdbId": "nm1406239",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Azita",
+                                "actorFullName": "Azita Ghanizada",
+                                "actorLastName": "Ghanizada",
+                                "characterName": "Rachel Pirzad",
+                                "imdbId": "nm1671257",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Laura",
+                                "actorFullName": "Laura Mennell",
+                                "actorLastName": "Mennell",
+                                "characterName": "Nina Theroux",
+                                "imdbId": "nm0579728",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Malik",
+                                "actorFullName": "Malik Yoba",
+                                "actorLastName": "Yoba",
+                                "characterName": "Bill Harken",
+                                "imdbId": "nm0948272",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "Erin",
+                                "actorFullName": "Erin Way",
+                                "actorLastName": "Way",
+                                "characterName": "Kat",
+                                "imdbId": "nm2338525",
+                                "type": "regular"
+                                },
+                                {
+                                "actorFirstName": "John",
+                                "actorFullName": "John Pyper-Ferguson",
+                                "actorLastName": "Pyper-Ferguson",
+                                "characterName": "Stanton Parish",
+                                "imdbId": "nm0701561",
+                                "type": "guest star"
+                                }
+                            ],
+                        "date_aired": "22-Oct-2012",
+                        "directors":
+                            [
+                                {
+                                "imdbId": "nm0369758",
+                                "name": "Matt Hastings"
+                                }
+                            ],
+                        "id": "tt2389320",
+                        "name": "God's Eye",
+                        "writers":
+                            [
+                                {
+                                "imdbId": "nm0585929",
+                                "name": "Bruce Miller"
+                                }
+                            ]
+                        }
+                    ],
+                "season_aired": "23-Jul-2012",
+                "season_number": 2
+                }
+            ],
+        "start_date": "11-Jul-2011"
+        }
+    ]
+}

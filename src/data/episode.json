@@ -1,0 +1,84 @@
+{
+"tvSeries":
+    [
+        {
+        "imdbId": "tt0262150",
+        "name": "Black Books",
+        "seasons":
+            [
+                {
+                "episodes":
+                    [
+                        {
+                        "imdbId": "tt0526547"
+                        },
+                        {
+                        "imdbId": "tt0526553"
+                        },
+                        {
+                        "imdbId": "tt0526560"
+                        },
+                        {
+                        "imdbId": "tt0526557"
+                        },
+                        {
+                        "imdbId": "tt0526556"
+                        },
+                        {
+                        "imdbId": "tt0526550"
+                        }
+                    ],
+                "name": "tt0262150-S1"
+                },
+                {
+                "episodes":
+                    [
+                        {
+                        "imdbId": "tt0526558"
+                        },
+                        {
+                        "imdbId": "tt0526549"
+                        },
+                        {
+                        "imdbId": "tt0526559"
+                        },
+                        {
+                        "imdbId": "tt0526546"
+                        },
+                        {
+                        "imdbId": "tt0526551"
+                        },
+                        {
+                        "imdbId": "tt0526545"
+                        }
+                    ],
+                "name": "tt0262150-S2"
+                },
+                {
+                "episodes":
+                    [
+                        {
+                        "imdbId": "tt0526552"
+                        },
+                        {
+                        "imdbId": "tt0526548"
+                        },
+                        {
+                        "imdbId": "tt0526554"
+                        },
+                        {
+                        "imdbId": "tt0526544"
+                        },
+                        {
+                        "imdbId": "tt0526561"
+                        },
+                        {
+                        "imdbId": "tt0526555"
+                        }
+                    ],
+                "name": "tt0262150-S3"
+                }
+            ]
+        }
+    ]
+}

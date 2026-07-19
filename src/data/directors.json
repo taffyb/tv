@@ -1,0 +1,834 @@
+[
+  {
+    "seriesImdbId": "tt1663676",
+    "seriesName": "Awkward.",
+    "directors": [
+      {
+        "name": "Millicent Shelton",
+        "imdbId": null,
+        "episodes": [{"season": 1, "episode": 1, "title": "Pilot", "imdbId": null}]
+      },
+      {
+        "name": "Ryan Shiraki",
+        "imdbId": null,
+        "episodes": [
+          {"season": 1, "episode": 2, "title": "Knocker Nightmare", "imdbId": null},
+          {"season": 1, "episode": 3, "title": "The Way We Weren't", "imdbId": null},
+          {"season": 1, "episode": 7, "title": "Over My Dead Body", "imdbId": null},
+          {"season": 2, "episode": 4, "title": "Are You There God? It's Me, Jenna", "imdbId": null},
+          {"season": 2, "episode": 6, "title": "What Comes First: Sex or Love?", "imdbId": null},
+          {"season": 3, "episode": 7, "title": "Guilt Trippin'", "imdbId": null},
+          {"season": 3, "episode": 8, "title": "Rubbed Raw and Reeling", "imdbId": null},
+          {"season": 4, "episode": 6, "title": "Crowning Moments", "imdbId": null},
+          {"season": 4, "episode": 7, "title": "After Hours", "imdbId": null},
+          {"season": 4, "episode": 8, "title": "Prison Breaks", "imdbId": null}
+        ]
+      },
+      {
+        "name": "David Katzenberg",
+        "imdbId": null,
+        "episodes": [
+          {"season": 1, "episode": 4, "title": "The Scarlet Eye", "imdbId": null},
+          {"season": 1, "episode": 5, "title": "Jenna Lives", "imdbId": null},
+          {"season": 1, "episode": 8, "title": "The Adventures of Aunt Ally and the Lil' Bitch", "imdbId": null},
+          {"season": 1, "episode": 9, "title": "My Super Bittersweet Sixteen", "imdbId": null},
+          {"season": 2, "episode": 3, "title": "Three's a Crowd", "imdbId": null},
+          {"season": 2, "episode": 5, "title": "My Love Is a Black Heart", "imdbId": null},
+          {"season": 3, "episode": 17, "title": "The Campaign Fail", "imdbId": null},
+          {"season": 3, "episode": 18, "title": "Old Jenna", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Lauren Iungerich",
+        "imdbId": null,
+        "episodes": [
+          {"season": 1, "episode": 6, "title": "Queen Bee-atches", "imdbId": null},
+          {"season": 1, "episode": 12, "title": "Fateful", "imdbId": null},
+          {"season": 2, "episode": 1, "title": "Resolutions", "imdbId": null},
+          {"season": 2, "episode": 7, "title": "Another One Bites the Dust", "imdbId": null},
+          {"season": 2, "episode": 8, "title": "Time After Time", "imdbId": null},
+          {"season": 3, "episode": 1, "title": "Cha-Cha-Cha-Changes", "imdbId": null},
+          {"season": 3, "episode": 2, "title": "Responsibly Irresponsible", "imdbId": null},
+          {"season": 3, "episode": 9, "title": "Reality Check", "imdbId": null},
+          {"season": 3, "episode": 10, "title": "Redefining Jenna", "imdbId": null},
+          {"season": 3, "episode": 11, "title": "Surprise!", "imdbId": null},
+          {"season": 3, "episode": 12, "title": "And Then What Happened", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Patrick Norris",
+        "imdbId": null,
+        "episodes": [
+          {"season": 1, "episode": 10, "title": "No Doubt", "imdbId": null},
+          {"season": 1, "episode": 11, "title": "I Am Jenna Hamilton", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Erin Ehrlich",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 2, "title": "Sex, Lies and the Sanctuary", "imdbId": null},
+          {"season": 3, "episode": 3, "title": "A Little Less Conversation", "imdbId": null},
+          {"season": 3, "episode": 19, "title": "Karmic Relief", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Joe Nussbaum",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 9, "title": "Homewrecker Hamilton", "imdbId": null},
+          {"season": 2, "episode": 10, "title": "Pick Me, Choose Me, Love Me", "imdbId": null},
+          {"season": 3, "episode": 5, "title": "Indecent Exposure", "imdbId": null},
+          {"season": 3, "episode": 6, "title": "That Girl Strikes Again", "imdbId": null},
+          {"season": 3, "episode": 15, "title": "A Very Special Episode of Awkward", "imdbId": null},
+          {"season": 3, "episode": 16, "title": "Less Than Hero", "imdbId": null},
+          {"season": 3, "episode": 20, "title": "Who I Want to Be", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Michael Blieden",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 11, "title": "Once Upon a Blog", "imdbId": null},
+          {"season": 2, "episode": 12, "title": "The Other Shoe", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Hal Olofsson",
+        "imdbId": null,
+        "episodes": [
+          {"season": 3, "episode": 4, "title": "Let's Talk About Sex", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Steve Gainer",
+        "imdbId": null,
+        "episodes": [
+          {"season": 3, "episode": 13, "title": "Taking Sides", "imdbId": null},
+          {"season": 5, "episode": 18, "title": "Digging Deep", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Gregory Guzik",
+        "imdbId": null,
+        "episodes": [
+          {"season": 3, "episode": 14, "title": "The Bad Seed", "imdbId": null},
+          {"season": 4, "episode": 15, "title": "Bonfire of the Vanities", "imdbId": null},
+          {"season": 5, "episode": 3, "title": "Jenna in Wonderland", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Peter Lauer",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 1, "title": "No Woman Is an Island", "imdbId": null},
+          {"season": 4, "episode": 9, "title": "My Personal Statement", "imdbId": null},
+          {"season": 4, "episode": 10, "title": "Snow Job", "imdbId": null},
+          {"season": 4, "episode": 20, "title": "Sprang Break (Part 1)", "imdbId": null},
+          {"season": 4, "episode": 21, "title": "Sprang Break (Part 2)", "imdbId": null},
+          {"season": 5, "episode": 1, "title": "Prank Amateurs", "imdbId": null},
+          {"season": 5, "episode": 2, "title": "Short Circuit Party", "imdbId": null},
+          {"season": 5, "episode": 11, "title": "The Graduates", "imdbId": null},
+          {"season": 5, "episode": 12, "title": "Holding On and Letting Go", "imdbId": null},
+          {"season": 5, "episode": 13, "title": "I'm the Kind of Girl Who Found Her Voice in College", "imdbId": null},
+          {"season": 5, "episode": 23, "title": "Second Chances", "imdbId": null},
+          {"season": 5, "episode": 24, "title": "Happy Campers. Happier Trails.", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Jay Karas",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 3, "title": "Touched by an Angel", "imdbId": null},
+          {"season": 4, "episode": 4, "title": "Sophomore Sluts", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Nell Scovell",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 5, "title": "Overnight", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Ashley Rickards",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 2, "title": "Listen to This", "imdbId": null},
+          {"season": 5, "episode": 5, "title": "The Dis-Engagement Dinner", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Rebecca Asher",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 12, "title": "Finals", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Mike Chessler",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 13, "title": "Auld Lang Party", "imdbId": null},
+          {"season": 5, "episode": 8, "title": "An Indecent Promposal", "imdbId": null},
+          {"season": 5, "episode": 15, "title": "The Friend Connection", "imdbId": null},
+          {"season": 5, "episode": 16, "title": "Best Friends For Never", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Chris Alberghini",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 14, "title": "Welcome to Hell", "imdbId": null},
+          {"season": 5, "episode": 4, "title": "Now You See Me, Now I Don't", "imdbId": null},
+          {"season": 5, "episode": 21, "title": "Living in Sin", "imdbId": null},
+          {"season": 5, "episode": 22, "title": "Home Again, Home Again", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Claire Scanlon",
+        "imdbId": null,
+        "episodes": [
+          {"season": 4, "episode": 16, "title": "#Drama", "imdbId": null},
+          {"season": 4, "episode": 17, "title": "The New Sex Deal", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Uta Briesewitz",
+        "imdbId": "nm0107782",
+        "episodes": [
+          {"season": 4, "episode": 18, "title": "Girl Rules", "imdbId": null},
+          {"season": 4, "episode": 19, "title": "Over the Hump", "imdbId": null},
+          {"season": 5, "episode": 9, "title": "Say No to the Dress", "imdbId": null},
+          {"season": 5, "episode": 10, "title": "Reality Does Not Bite", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Brian Dannelly",
+        "imdbId": null,
+        "episodes": [{"season": 5, "episode": 6, "title": "Don't Dream It's Over", "imdbId": null}]
+      },
+      {
+        "name": "Joanna Kerns",
+        "imdbId": null,
+        "episodes": [{"season": 5, "episode": 7, "title": "The Big Reveal", "imdbId": null}]
+      },
+      {
+        "name": "Gail Lerner",
+        "imdbId": null,
+        "episodes": [{"season": 5, "episode": 14, "title": "WTF Happened Last Year?", "imdbId": null}]
+      },
+      {
+        "name": "Jeff Melman",
+        "imdbId": null,
+        "episodes": [{"season": 5, "episode": 17, "title": "Fireworks", "imdbId": null}]
+      },
+      {
+        "name": "Beau Mirchoff",
+        "imdbId": null,
+        "episodes": [{"season": 5, "episode": 19, "title": "Girls Gone Viral", "imdbId": null}]
+      },
+      {
+        "name": "Anna Mastro",
+        "imdbId": null,
+        "episodes": [{"season": 5, "episode": 20, "title": "Misadventures in Babysitting", "imdbId": null}]
+      }
+    ]
+  },
+  {
+    "seriesImdbId": "tt2261227",
+    "seriesName": "Altered Carbon",
+    "directors": [
+      {
+        "name": "Miguel Sapochnik",
+        "imdbId": "nm0763988",
+        "episodes": [{"season": 1, "episode": 1, "title": "Out of the Past", "imdbId": "tt5989942"}]
+      },
+      {
+        "name": "Nick Hurran",
+        "imdbId": "nm0403541",
+        "episodes": [
+          {"season": 1, "episode": 2, "title": "Fallen Angel", "imdbId": null},
+          {"season": 1, "episode": 3, "title": "In a Lonely Place", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Alex Graves",
+        "imdbId": null,
+        "episodes": [
+          {"season": 1, "episode": 4, "title": "Force of Evil", "imdbId": null},
+          {"season": 1, "episode": 6, "title": "Man with My Face", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Uta Briesewitz",
+        "imdbId": "nm0107782",
+        "episodes": [
+          {"season": 1, "episode": 5, "title": "The Wrong Man", "imdbId": null},
+          {"season": 1, "episode": 8, "title": "Clash by Night", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Andy Goddard",
+        "imdbId": null,
+        "episodes": [{"season": 1, "episode": 7, "title": "Nora Inu", "imdbId": "tt6878624"}]
+      },
+      {
+        "name": "Peter Hoar",
+        "imdbId": null,
+        "episodes": [
+          {"season": 1, "episode": 9, "title": "Rage in Heaven", "imdbId": null},
+          {"season": 1, "episode": 10, "title": "The Killers", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Ciaran Donnelly",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 1, "title": "Phantom Lady", "imdbId": null},
+          {"season": 2, "episode": 2, "title": "Payment Deferred", "imdbId": null}
+        ]
+      },
+      {
+        "name": "M.J. Bassett",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 3, "title": "Nightmare Alley", "imdbId": null},
+          {"season": 2, "episode": 4, "title": "Shadow of a Doubt", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Jeremy Webb",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 5, "title": "I Wake Up Screaming", "imdbId": null},
+          {"season": 2, "episode": 6, "title": "Bury Me Dead", "imdbId": null}
+        ]
+      },
+      {
+        "name": "Salli Richardson-Whitfield",
+        "imdbId": null,
+        "episodes": [
+          {"season": 2, "episode": 7, "title": "Experiment Perilous", "imdbId": null},
+          {"season": 2, "episode": 8, "title": "Broken Angels", "imdbId": null}
+        ]
+      }
+    ]
+  },
+  {
+    "seriesImdbId": "tt1898069",
+    "seriesName": "American Gods",
+    "directors": [
+      {"name": "David Slade", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 1, "title": "The Bone Orchard", "imdbId": null},
+        {"season": 1, "episode": 2, "title": "The Secret of Spoons", "imdbId": null},
+        {"season": 1, "episode": 3, "title": "Head Full of Snow", "imdbId": null}
+      ]},
+      {"name": "Craig Zobel", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 4, "title": "Git Gone", "imdbId": null}
+      ]},
+      {"name": "Vincenzo Natali", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 5, "title": "Lemon Scented You", "imdbId": null}
+      ]},
+      {"name": "Adam Kane", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 6, "title": "A Murder of Gods", "imdbId": null},
+        {"season": 1, "episode": 7, "title": "A Prayer for Mad Sweeney", "imdbId": null}
+      ]},
+      {"name": "Floria Sigismondi", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 8, "title": "Come to Jesus", "imdbId": null}
+      ]},
+      {"name": "Christopher J. Byrne", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 1, "title": "House on the Rock", "imdbId": null},
+        {"season": 2, "episode": 8, "title": "Moon Shadow", "imdbId": null}
+      ]},
+      {"name": "Frederick E.O. Toye", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 2, "title": "The Beguiling Man", "imdbId": null}
+      ]},
+      {"name": "Deborah Chow", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 3, "title": "Muninn", "imdbId": null}
+      ]},
+      {"name": "Stacie Passon", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 4, "title": "The Greatest Story Ever Told", "imdbId": null}
+      ]},
+      {"name": "Salli Richardson-Whitfield", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 5, "title": "The Ways of the Dead", "imdbId": null}
+      ]},
+      {"name": "Rachel Talalay", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 6, "title": "Donar the Great", "imdbId": null}
+      ]},
+      {"name": "Paco Cabezas", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 7, "title": "Treasure of the Sun", "imdbId": null}
+      ]},
+      {"name": "Jon Amiel", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 1, "title": "A Winter's Tale", "imdbId": null}
+      ]},
+      {"name": "Julian Holmes", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 2, "title": "Serious Moonlight", "imdbId": null}
+      ]},
+      {"name": "Thomas Carter", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 3, "title": "Ashes and Demons", "imdbId": null}
+      ]},
+      {"name": "Eva Sorhaug", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 4, "title": "The Unseen", "imdbId": null}
+      ]},
+      {"name": "Nick Copus", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 5, "title": "Sister Rising", "imdbId": null}
+      ]},
+      {"name": "Mark Tinker", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 6, "title": "Conscience of the King", "imdbId": null}
+      ]},
+      {"name": "Rachel Goldberg", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 7, "title": "Fire and Ice", "imdbId": null}
+      ]},
+      {"name": "Tim Southam", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 8, "title": "The Rapture of Burning", "imdbId": null}
+      ]},
+      {"name": "Metin Hüseyin", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 9, "title": "The Lake Effect", "imdbId": null}
+      ]},
+      {"name": "Russell Fine", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 10, "title": "Tears of the Wrath-Bearing Tree", "imdbId": null}
+      ]}
+    ]
+  },
+  {
+    "seriesImdbId": "tt1135300",
+    "seriesName": "Dollhouse",
+    "directors": [
+      {"name": "Joss Whedon", "imdbId": "nm0923736", "episodes": [
+        {"season": 1, "episode": 0, "title": "Echo (unaired pilot)", "imdbId": "tt1415018"},
+        {"season": 1, "episode": 1, "title": "Ghost", "imdbId": "tt1216522"},
+        {"season": 2, "episode": 1, "title": "Vows", "imdbId": "tt1472477"}
+      ]},
+      {"name": "Steven S. DeKnight", "imdbId": "nm0215299", "episodes": [
+        {"season": 1, "episode": 2, "title": "The Target", "imdbId": "tt1216523"}
+      ]},
+      {"name": "David Solomon", "imdbId": "nm0813313", "episodes": [
+        {"season": 1, "episode": 3, "title": "Stage Fright", "imdbId": "tt1216524"},
+        {"season": 1, "episode": 9, "title": "A Spy in the House of Love", "imdbId": "tt1356320"},
+        {"season": 1, "episode": 13, "title": "Epitaph One", "imdbId": "tt1417754"},
+        {"season": 2, "episode": 3, "title": "Belle Chose", "imdbId": "tt1484583"},
+        {"season": 2, "episode": 5, "title": "The Public Eye", "imdbId": "tt1518945"},
+        {"season": 2, "episode": 13, "title": "Epitaph Two: Return", "imdbId": "tt1537130"}
+      ]},
+      {"name": "Rod Hardy", "imdbId": "nm0362738", "episodes": [
+        {"season": 1, "episode": 4, "title": "Gray Hour", "imdbId": "tt1208132"}
+      ]},
+      {"name": "Allan Kroeker", "imdbId": "nm0471862", "episodes": [
+        {"season": 1, "episode": 5, "title": "True Believer", "imdbId": "tt1216526"}
+      ]},
+      {"name": "David Straiton", "imdbId": "nm0833191", "episodes": [
+        {"season": 1, "episode": 6, "title": "Man on the Street", "imdbId": "tt1216525"},
+        {"season": 2, "episode": 8, "title": "A Love Supreme", "imdbId": "tt1535687"}
+      ]},
+      {"name": "James A. Contner", "imdbId": "nm0176448", "episodes": [
+        {"season": 1, "episode": 7, "title": "Echoes", "imdbId": "tt1216527"}
+      ]},
+      {"name": "Félix Enríquez Alcalá", "imdbId": "nm0258066", "episodes": [
+        {"season": 1, "episode": 8, "title": "Needs", "imdbId": "tt1356321"},
+        {"season": 2, "episode": 9, "title": "Stop-Loss", "imdbId": "tt1535689"}
+      ]},
+      {"name": "Elodie Keene", "imdbId": "nm0444709", "episodes": [
+        {"season": 1, "episode": 10, "title": "Haunted", "imdbId": "tt1356319"}
+      ]},
+      {"name": "Dwight H. Little", "imdbId": "nm0514546", "episodes": [
+        {"season": 1, "episode": 11, "title": "Briar Rose", "imdbId": "tt1356318"},
+        {"season": 2, "episode": 7, "title": "Meet Jane Doe", "imdbId": "tt1535688"}
+      ]},
+      {"name": "Tim Minear", "imdbId": "nm0591101", "episodes": [
+        {"season": 1, "episode": 12, "title": "Omega", "imdbId": "tt1385113"},
+        {"season": 2, "episode": 11, "title": "Getting Closer", "imdbId": "tt1537128"}
+      ]},
+      {"name": "Marita Grabiak", "imdbId": "nm0333239", "episodes": [
+        {"season": 2, "episode": 2, "title": "Instinct", "imdbId": "tt1498132"}
+      ]},
+      {"name": "Jonathan Frakes", "imdbId": "nm0000408", "episodes": [
+        {"season": 2, "episode": 4, "title": "Belonging", "imdbId": "tt1494936"}
+      ]},
+      {"name": "Wendey Stanzler", "imdbId": "nm0007096", "episodes": [
+        {"season": 2, "episode": 6, "title": "The Left Hand", "imdbId": "tt1518944"}
+      ]},
+      {"name": "John Cassaday", "imdbId": "nm1591415", "episodes": [
+        {"season": 2, "episode": 10, "title": "The Attic", "imdbId": "tt1535690"}
+      ]},
+      {"name": "Terrence O'Hara", "imdbId": "nm0641343", "episodes": [
+        {"season": 2, "episode": 12, "title": "The Hollow Men", "imdbId": "tt1537129"}
+      ]}
+    ]
+  },
+  {
+    "seriesImdbId": "tt1839578",
+    "seriesName": "Person of Interest",
+    "directors": [
+      {"name": "David Semel", "imdbId": null, "episodes": [{"season": 1, "episode": 1, "title": "Pilot", "imdbId": null}]},
+      {"name": "Richard J. Lewis", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 2, "title": "Ghosts", "imdbId": null},
+        {"season": 1, "episode": 13, "title": "Root Cause", "imdbId": null},
+        {"season": 1, "episode": 23, "title": "Firewall", "imdbId": null},
+        {"season": 2, "episode": 1, "title": "The Contingency", "imdbId": null},
+        {"season": 2, "episode": 11, "title": "2piR", "imdbId": null},
+        {"season": 2, "episode": 22, "title": "God Mode", "imdbId": null},
+        {"season": 3, "episode": 11, "title": "Lethe", "imdbId": null},
+        {"season": 3, "episode": 12, "title": "Aletheia", "imdbId": null},
+        {"season": 3, "episode": 20, "title": "Death Benefit", "imdbId": null},
+        {"season": 4, "episode": 1, "title": "Panopticon", "imdbId": null},
+        {"season": 4, "episode": 8, "title": "Point of Origin", "imdbId": null},
+        {"season": 4, "episode": 9, "title": "The Devil You Know", "imdbId": null}
+      ]},
+      {"name": "Steven DePaul", "imdbId": null, "episodes": [{"season": 1, "episode": 3, "title": "Mission Creep", "imdbId": null}]},
+      {"name": "Charles Beeson", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 4, "title": "Cura Te Ipsum", "imdbId": null},
+        {"season": 1, "episode": 18, "title": "Identity Crisis", "imdbId": null}
+      ]},
+      {"name": "Colin Bucksey", "imdbId": null, "episodes": [{"season": 1, "episode": 5, "title": "Judgment", "imdbId": null}]},
+      {"name": "Dennis Smith", "imdbId": null, "episodes": [{"season": 1, "episode": 6, "title": "The Fix", "imdbId": null}]},
+      {"name": "Frederick E.O. Toye", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 7, "title": "Witness", "imdbId": null},
+        {"season": 1, "episode": 21, "title": "Many Happy Returns", "imdbId": null},
+        {"season": 2, "episode": 7, "title": "Critical", "imdbId": null},
+        {"season": 2, "episode": 15, "title": "Booked Solid", "imdbId": null},
+        {"season": 3, "episode": 2, "title": "Nothing to Hide", "imdbId": null},
+        {"season": 3, "episode": 9, "title": "The Crossing", "imdbId": null},
+        {"season": 3, "episode": 21, "title": "Beta", "imdbId": null},
+        {"season": 4, "episode": 3, "title": "Wingman", "imdbId": null},
+        {"season": 4, "episode": 16, "title": "Blunt", "imdbId": null},
+        {"season": 4, "episode": 21, "title": "Asylum", "imdbId": null},
+        {"season": 5, "episode": 10, "title": "The Day the World Went Away", "imdbId": null}
+      ]},
+      {"name": "Milan Cheylov", "imdbId": null, "episodes": [{"season": 1, "episode": 8, "title": "Foe", "imdbId": null}]},
+      {"name": "Alex Zakrzewski", "imdbId": null, "episodes": [{"season": 1, "episode": 9, "title": "Get Carter", "imdbId": null}]},
+      {"name": "Jeffrey Hunt", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 10, "title": "Number Crunch", "imdbId": null},
+        {"season": 2, "episode": 3, "title": "Masquerade", "imdbId": null},
+        {"season": 2, "episode": 5, "title": "Bury the Lede", "imdbId": null},
+        {"season": 2, "episode": 19, "title": "Trojan Horse", "imdbId": null},
+        {"season": 2, "episode": 21, "title": "Zero Day", "imdbId": null},
+        {"season": 3, "episode": 14, "title": "Provenance", "imdbId": null},
+        {"season": 3, "episode": 18, "title": "Allegiance", "imdbId": null}
+      ]},
+      {"name": "Stephen Williams", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 11, "title": "Super", "imdbId": null},
+        {"season": 1, "episode": 22, "title": "No Good Deed", "imdbId": null},
+        {"season": 3, "episode": 4, "title": "Reasonable Doubt", "imdbId": null},
+        {"season": 3, "episode": 13, "title": "4C", "imdbId": null},
+        {"season": 3, "episode": 9, "title": "Do Mail Robots Dream of Electric Sheep?", "imdbId": null}
+      ]},
+      {"name": "Brad Anderson", "imdbId": null, "episodes": [{"season": 1, "episode": 12, "title": "Legacy", "imdbId": null}]},
+      {"name": "Chris Fisher", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 14, "title": "Wolf and Cub", "imdbId": null},
+        {"season": 2, "episode": 12, "title": "Prisoner's Dilemma", "imdbId": null},
+        {"season": 2, "episode": 14, "title": "One Percent", "imdbId": null},
+        {"season": 2, "episode": 20, "title": "In Extremis", "imdbId": null},
+        {"season": 3, "episode": 1, "title": "Liberty", "imdbId": null},
+        {"season": 3, "episode": 10, "title": "The Devil's Share", "imdbId": null},
+        {"season": 3, "episode": 22, "title": "A House Divided", "imdbId": null},
+        {"season": 3, "episode": 23, "title": "Deus Ex Machina", "imdbId": null},
+        {"season": 4, "episode": 2, "title": "Nautilus", "imdbId": null},
+        {"season": 4, "episode": 4, "title": "Brotherhood", "imdbId": null},
+        {"season": 4, "episode": 11, "title": "If-Then-Else", "imdbId": null},
+        {"season": 4, "episode": 17, "title": "Karma", "imdbId": null},
+        {"season": 4, "episode": 22, "title": "YHWH", "imdbId": null},
+        {"season": 5, "episode": 1, "title": "B.S.O.D.", "imdbId": null},
+        {"season": 5, "episode": 2, "title": "SNAFU", "imdbId": null},
+        {"season": 5, "episode": 4, "title": "6741", "imdbId": null},
+        {"season": 5, "episode": 13, "title": "return 0", "imdbId": null}
+      ]},
+      {"name": "David Von Ancken", "imdbId": null, "episodes": [{"season": 1, "episode": 15, "title": "Blue Code", "imdbId": null}]},
+      {"name": "Jeff T. Thomas", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 16, "title": "Risk", "imdbId": null},
+        {"season": 3, "episode": 15, "title": "Last Call", "imdbId": null}
+      ]},
+      {"name": "Larry Teng", "imdbId": null, "episodes": [{"season": 1, "episode": 17, "title": "Baby Blue", "imdbId": null}]},
+      {"name": "Stephen Semel", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 19, "title": "Flesh and Blood", "imdbId": null},
+        {"season": 4, "episode": 15, "title": "Q&A", "imdbId": null}
+      ]},
+      {"name": "Kevin Bray", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 20, "title": "Matsya Nyaya", "imdbId": null},
+        {"season": 4, "episode": 13, "title": "M.I.A.", "imdbId": null}
+      ]},
+      {"name": "Jon Cassar", "imdbId": null, "episodes": [{"season": 2, "episode": 2, "title": "Bad Code", "imdbId": null}]},
+      {"name": "James Whitmore Jr.", "imdbId": null, "episodes": [{"season": 2, "episode": 4, "title": "Triggerman", "imdbId": null}]},
+      {"name": "Felix Alcala", "imdbId": "nm0258066", "episodes": [{"season": 2, "episode": 6, "title": "The High Road", "imdbId": null}]},
+      {"name": "Helen Shaver", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 8, "title": "Til Death", "imdbId": null},
+        {"season": 3, "episode": 6, "title": "Mors Praematura", "imdbId": null},
+        {"season": 4, "episode": 18, "title": "Skip", "imdbId": null}
+      ]},
+      {"name": "Clark Johnson", "imdbId": null, "episodes": [{"season": 2, "episode": 9, "title": "C.O.D.", "imdbId": null}]},
+      {"name": "Stephen Surjik", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 10, "title": "Shadow Box", "imdbId": null},
+        {"season": 3, "episode": 7, "title": "The Perfect Mark", "imdbId": null},
+        {"season": 3, "episode": 16, "title": "RAM", "imdbId": null},
+        {"season": 4, "episode": 6, "title": "Pretenders", "imdbId": null},
+        {"season": 4, "episode": 12, "title": "Control-Alt-Delete", "imdbId": null},
+        {"season": 4, "episode": 19, "title": "Search and Destroy", "imdbId": null},
+        {"season": 5, "episode": 3, "title": "Truth Be Told", "imdbId": null}
+      ]},
+      {"name": "John Dahl", "imdbId": null, "episodes": [{"season": 2, "episode": 13, "title": "Dead Reckoning", "imdbId": null}]},
+      {"name": "Jonathan Nolan", "imdbId": null, "episodes": [{"season": 2, "episode": 16, "title": "Relevance", "imdbId": null}]},
+      {"name": "Kenneth Fink", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 17, "title": "Proteus", "imdbId": null},
+        {"season": 3, "episode": 5, "title": "Razgovor", "imdbId": null},
+        {"season": 4, "episode": 5, "title": "Prophets", "imdbId": null},
+        {"season": 5, "episode": 8, "title": "Reassortment", "imdbId": null}
+      ]},
+      {"name": "Tricia Brock", "imdbId": null, "episodes": [{"season": 2, "episode": 18, "title": "All In", "imdbId": null}]},
+      {"name": "Omar Madha", "imdbId": null, "episodes": [{"season": 3, "episode": 3, "title": "Lady Killer", "imdbId": null}]},
+      {"name": "Sylvain White", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 8, "title": "Endgame", "imdbId": null},
+        {"season": 4, "episode": 7, "title": "Honor Among Thieves", "imdbId": null}
+      ]},
+      {"name": "Jeffrey Lee Gibson", "imdbId": null, "episodes": [{"season": 3, "episode": 17, "title": "Root Path", "imdbId": null}]},
+      {"name": "Kevin Hooks", "imdbId": "nm0393661", "episodes": [
+        {"season": 3, "episode": 19, "title": "Most Likely To...", "imdbId": null}
+      ]},
+      {"name": "Michael Offer", "imdbId": "nm0644397", "episodes": [
+        {"season": 4, "episode": 10, "title": "The Cold War", "imdbId": null}
+      ]},
+      {"name": "Kate Woods", "imdbId": null, "episodes": [
+        {"season": 4, "episode": 14, "title": "Guilty", "imdbId": null},
+        {"season": 5, "episode": 7, "title": "QSO", "imdbId": null}
+      ]},
+      {"name": "Alrick Riley", "imdbId": null, "episodes": [
+        {"season": 4, "episode": 20, "title": "Terra Incognita", "imdbId": null},
+        {"season": 5, "episode": 6, "title": "A More Perfect Union", "imdbId": null}
+      ]},
+      {"name": "Maja Vrvilo", "imdbId": null, "episodes": [{"season": 5, "episode": 5, "title": "ShotSeeker", "imdbId": null}]},
+      {"name": "Margot Lulick", "imdbId": null, "episodes": [{"season": 5, "episode": 9, "title": "Sotto Voce", "imdbId": null}]},
+      {"name": "Tim Matheson", "imdbId": null, "episodes": [{"season": 5, "episode": 11, "title": "Synecdoche", "imdbId": null}]},
+      {"name": "Greg Plageman", "imdbId": null, "episodes": [{"season": 5, "episode": 12, "title": ".exe", "imdbId": null}]}
+    ]
+  },
+  {
+    "seriesImdbId": "tt2149175",
+    "seriesName": "The Americans",
+    "directors": [
+      {"name": "Gavin O'Connor", "imdbId": null, "episodes": [{"season": 1, "episode": 1, "title": "Pilot", "imdbId": null}]},
+      {"name": "Adam Arkin", "imdbId": "nm0035060", "episodes": [
+        {"season": 1, "episode": 2, "title": "The Clock", "imdbId": null},
+        {"season": 1, "episode": 10, "title": "Only You", "imdbId": null},
+        {"season": 1, "episode": 13, "title": "The Colonel", "imdbId": null}
+      ]},
+      {"name": "Thomas Schlamme", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 3, "title": "Gregory", "imdbId": null},
+        {"season": 2, "episode": 1, "title": "Comrades", "imdbId": null},
+        {"season": 3, "episode": 3, "title": "Open House", "imdbId": null},
+        {"season": 3, "episode": 4, "title": "Dimebag", "imdbId": null},
+        {"season": 4, "episode": 1, "title": "Glanders", "imdbId": null},
+        {"season": 6, "episode": 5, "title": "The Great Patriotic War", "imdbId": null}
+      ]},
+      {"name": "Jean de Segonzac", "imdbId": null, "episodes": [{"season": 1, "episode": 4, "title": "In Control", "imdbId": null}]},
+      {"name": "Holly Dale", "imdbId": null, "episodes": [{"season": 1, "episode": 5, "title": "COMINT", "imdbId": null}]},
+      {"name": "Daniel Sackheim", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 6, "title": "Trust Me", "imdbId": null},
+        {"season": 2, "episode": 2, "title": "Cardinal", "imdbId": null},
+        {"season": 2, "episode": 13, "title": "Echo", "imdbId": null},
+        {"season": 3, "episode": 1, "title": "EST Men", "imdbId": null},
+        {"season": 3, "episode": 2, "title": "Baggage", "imdbId": null},
+        {"season": 3, "episode": 13, "title": "March 8, 1983", "imdbId": null},
+        {"season": 4, "episode": 9, "title": "The Day After", "imdbId": null}
+      ]},
+      {"name": "Alex Chapple", "imdbId": "nm0152650", "episodes": [{"season": 1, "episode": 7, "title": "Duty and Honor", "imdbId": null}]},
+      {"name": "Bill Johnson", "imdbId": null, "episodes": [{"season": 1, "episode": 8, "title": "Mutually Assured Destruction", "imdbId": null}]},
+      {"name": "Jim McKay", "imdbId": null, "episodes": [{"season": 1, "episode": 9, "title": "Safe House", "imdbId": null}]},
+      {"name": "Nicole Kassell", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 11, "title": "Covert War", "imdbId": null},
+        {"season": 4, "episode": 11, "title": "Dinner for Seven", "imdbId": null},
+        {"season": 5, "episode": 12, "title": "The World Council of Churches", "imdbId": null}
+      ]},
+      {"name": "John Dahl", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 12, "title": "The Oath", "imdbId": null},
+        {"season": 2, "episode": 8, "title": "New Car", "imdbId": null}
+      ]},
+      {"name": "Constantine Makris", "imdbId": null, "episodes": [{"season": 2, "episode": 3, "title": "The Walk In", "imdbId": null}]},
+      {"name": "Lodge Kerrigan", "imdbId": null, "episodes": [{"season": 2, "episode": 4, "title": "A Little Night Music", "imdbId": null}]},
+      {"name": "Dan Attias", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 5, "title": "The Deal", "imdbId": null},
+        {"season": 3, "episode": 8, "title": "Divestment", "imdbId": null},
+        {"season": 4, "episode": 7, "title": "Travel Agents", "imdbId": null},
+        {"season": 5, "episode": 9, "title": "IHOP", "imdbId": null},
+        {"season": 6, "episode": 3, "title": "Urban Transport Planning", "imdbId": null}
+      ]},
+      {"name": "Charlotte Sieling", "imdbId": null, "episodes": [{"season": 2, "episode": 6, "title": "Behind the Red Door", "imdbId": null}]},
+      {"name": "Kevin Dowling", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 7, "title": "Arpanet", "imdbId": null},
+        {"season": 3, "episode": 5, "title": "Salang Pass", "imdbId": null},
+        {"season": 3, "episode": 6, "title": "Born Again", "imdbId": null},
+        {"season": 4, "episode": 3, "title": "Experimental Prototype City of Tomorrow", "imdbId": null}
+      ]},
+      {"name": "Alik Sakharov", "imdbId": null, "episodes": [{"season": 2, "episode": 9, "title": "Martial Eagle", "imdbId": null}]},
+      {"name": "Stefan Schwartz", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 10, "title": "Yousaf", "imdbId": null},
+        {"season": 4, "episode": 4, "title": "Chloramphenicol", "imdbId": null},
+        {"season": 5, "episode": 3, "title": "The Midges", "imdbId": null},
+        {"season": 6, "episode": 7, "title": "Harvest", "imdbId": null}
+      ]},
+      {"name": "Gregory Hoblit", "imdbId": null, "episodes": [{"season": 2, "episode": 11, "title": "Stealth", "imdbId": null}]},
+      {"name": "Andrew Bernstein", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 12, "title": "Operation Chronicle", "imdbId": null},
+        {"season": 3, "episode": 11, "title": "One Day in the Life of Anton Baklanov", "imdbId": null}
+      ]},
+      {"name": "Noah Emmerich", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 7, "title": "Walter Taffet", "imdbId": null},
+        {"season": 4, "episode": 5, "title": "Clark's Place", "imdbId": null},
+        {"season": 5, "episode": 5, "title": "Lotus 1-2-3", "imdbId": null}
+      ]},
+      {"name": "Stephen Williams", "imdbId": null, "episodes": [{"season": 3, "episode": 9, "title": "Do Mail Robots Dream of Electric Sheep?", "imdbId": null}]},
+      {"name": "Larysa Kondracki", "imdbId": null, "episodes": [{"season": 3, "episode": 10, "title": "Stingers", "imdbId": null}]},
+      {"name": "Christopher Misiano", "imdbId": null, "episodes": [{"season": 3, "episode": 12, "title": "I Am Abassin Zadran", "imdbId": null}]},
+      {"name": "Chris Long", "imdbId": null, "episodes": [
+        {"season": 4, "episode": 2, "title": "Pastor Tim", "imdbId": null},
+        {"season": 4, "episode": 12, "title": "A Roy Rogers in Franconia", "imdbId": null},
+        {"season": 4, "episode": 13, "title": "Persona Non Grata", "imdbId": null},
+        {"season": 5, "episode": 1, "title": "Amber Waves", "imdbId": null},
+        {"season": 5, "episode": 2, "title": "Pests", "imdbId": null},
+        {"season": 5, "episode": 13, "title": "The Soviet Division", "imdbId": null},
+        {"season": 6, "episode": 1, "title": "Dead Hand", "imdbId": null},
+        {"season": 6, "episode": 9, "title": "Jennings, Elizabeth", "imdbId": null},
+        {"season": 6, "episode": 10, "title": "START", "imdbId": null}
+      ]},
+      {"name": "Kari Skogland", "imdbId": null, "episodes": [{"season": 4, "episode": 6, "title": "The Rat", "imdbId": null}]},
+      {"name": "Matthew Rhys", "imdbId": null, "episodes": [
+        {"season": 4, "episode": 8, "title": "The Magic of David Copperfield V: The Statue of Liberty Disappears", "imdbId": null},
+        {"season": 5, "episode": 7, "title": "The Committee on Human Rights", "imdbId": null},
+        {"season": 6, "episode": 2, "title": "Tchaikovsky", "imdbId": null}
+      ]},
+      {"name": "Steph Green", "imdbId": null, "episodes": [
+        {"season": 4, "episode": 10, "title": "Munchkins", "imdbId": null},
+        {"season": 5, "episode": 11, "title": "Dyatkovo", "imdbId": null}
+      ]},
+      {"name": "Gwyneth Horder-Payton", "imdbId": null, "episodes": [{"season": 5, "episode": 4, "title": "What's the Matter with Kansas?", "imdbId": null}]},
+      {"name": "Roxann Dawson", "imdbId": null, "episodes": [
+        {"season": 5, "episode": 6, "title": "Crossbreed", "imdbId": null},
+        {"season": 6, "episode": 4, "title": "Mr. and Mrs. Teacup", "imdbId": null}
+      ]},
+      {"name": "Kevin Bray", "imdbId": null, "episodes": [
+        {"season": 5, "episode": 8, "title": "Immersion", "imdbId": null},
+        {"season": 6, "episode": 6, "title": "Rififi", "imdbId": null}
+      ]},
+      {"name": "Sylvain White", "imdbId": null, "episodes": [
+        {"season": 5, "episode": 10, "title": "Darkroom", "imdbId": null},
+        {"season": 6, "episode": 8, "title": "The Summit", "imdbId": null}
+      ]}
+    ]
+  },
+  {
+    "seriesImdbId": "tt1752076",
+    "seriesName": "The Almighty Johnsons",
+    "directors": [
+      {"name": "Mark Beesley", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 1, "title": "It's a Kind of a Birthday Present", "imdbId": null},
+        {"season": 1, "episode": 2, "title": "This Is Where Duty Starts", "imdbId": null},
+        {"season": 1, "episode": 5, "title": "This Is Not Washing Powder, My Friend", "imdbId": null},
+        {"season": 1, "episode": 6, "title": "Goddesses, Axl, Come in All Forms", "imdbId": null},
+        {"season": 1, "episode": 9, "title": "Hunting Reindeer on Slippery Rocks", "imdbId": null},
+        {"season": 1, "episode": 10, "title": "Every Good Quest Has a Sacrifice", "imdbId": null}
+      ]},
+      {"name": "Murray Keane", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 3, "title": "God's Gift to Zebras", "imdbId": null},
+        {"season": 1, "episode": 4, "title": "You Gotta Love Life, Baby", "imdbId": null},
+        {"season": 1, "episode": 7, "title": "Bad Things Happen", "imdbId": null},
+        {"season": 1, "episode": 8, "title": "I Can Give You Frigg", "imdbId": null},
+        {"season": 2, "episode": 11, "title": "The House of Jerome", "imdbId": null},
+        {"season": 2, "episode": 12, "title": "You Call This the Real World?", "imdbId": null},
+        {"season": 2, "episode": 13, "title": "Does This Look Like Asgard?", "imdbId": null},
+        {"season": 3, "episode": 1, "title": "An Orchard of Trees", "imdbId": null},
+        {"season": 3, "episode": 2, "title": "This Thing Inside", "imdbId": null},
+        {"season": 3, "episode": 11, "title": "A Bit Like Buses Really", "imdbId": null},
+        {"season": 3, "episode": 12, "title": "Late to the Point of Knowledge", "imdbId": null}
+      ]},
+      {"name": "Simon Bennett", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 1, "title": "And Then She Will Come to You", "imdbId": null},
+        {"season": 2, "episode": 2, "title": "Frigg Magnet", "imdbId": null}
+      ]},
+      {"name": "Charlie Haskell", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 5, "title": "A Damn Fine Woman", "imdbId": null},
+        {"season": 2, "episode": 6, "title": "Folkmoot", "imdbId": null},
+        {"season": 2, "episode": 9, "title": "Everything Starts with Gaia", "imdbId": null},
+        {"season": 2, "episode": 10, "title": "Magical Fluffy Bunny World", "imdbId": null}
+      ]},
+      {"name": "Geoffrey Cawthorn", "imdbId": null, "episodes": [
+        {"season": 2, "episode": 7, "title": "Effortless Manly Coolness", "imdbId": null},
+        {"season": 2, "episode": 8, "title": "Man-Flu", "imdbId": null},
+        {"season": 3, "episode": 3, "title": "Bergerbar", "imdbId": null},
+        {"season": 3, "episode": 4, "title": "Like the Berserkers of Old", "imdbId": null},
+        {"season": 3, "episode": 9, "title": "Mike in the Mirror", "imdbId": null},
+        {"season": 3, "episode": 10, "title": "Playing God", "imdbId": null}
+      ]},
+      {"name": "Mike Smith", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 5, "title": "Unleash the Kraken!", "imdbId": null},
+        {"season": 3, "episode": 6, "title": "And Then on to Norsewood", "imdbId": null},
+        {"season": 3, "episode": 13, "title": "The End of the World as We Know It", "imdbId": null}
+      ]},
+      {"name": "Michael Hurst", "imdbId": null, "episodes": [
+        {"season": 3, "episode": 7, "title": "Typical Auckland God", "imdbId": null},
+        {"season": 3, "episode": 8, "title": "The Asparagus Is Kicking In", "imdbId": null}
+      ]}
+    ]
+  },
+  {
+    "seriesImdbId": "tt0075472",
+    "seriesName": "All Creatures Great and Small",
+    "_note": "Per-episode director credits not available from Wikipedia episode list. Directors sourced from series-level IMDB credits only. Episode-to-director mapping and episode tt IDs require further research.",
+    "directors": [
+      {"name": "Christopher Barry", "imdbId": "nm0059406", "episodes": []},
+      {"name": "Peter Moffatt", "imdbId": null, "episodes": []},
+      {"name": "Michael Brayshaw", "imdbId": null, "episodes": []},
+      {"name": "Robert Tronson", "imdbId": null, "episodes": []},
+      {"name": "Terence Dudley", "imdbId": null, "episodes": []},
+      {"name": "Tony Virgo", "imdbId": null, "episodes": []},
+      {"name": "Roderick Graham", "imdbId": null, "episodes": []},
+      {"name": "Richard Bramall", "imdbId": null, "episodes": []},
+      {"name": "Michael Hayes", "imdbId": null, "episodes": []},
+      {"name": "Jeremy Summers", "imdbId": null, "episodes": []},
+      {"name": "Bob Blagden", "imdbId": null, "episodes": []},
+      {"name": "Steve Goldie", "imdbId": null, "episodes": []},
+      {"name": "Richard Martin", "imdbId": null, "episodes": []},
+      {"name": "Kenneth Ives", "imdbId": null, "episodes": []}
+    ]
+  },
+  {
+    "seriesImdbId": "tt2099034",
+    "seriesName": "Backstrom",
+    "directors": [
+      {"name": "Mark Mylod", "imdbId": "nm0617042", "episodes": [
+        {"season": 1, "episode": 1, "title": "Dragon Slayer", "imdbId": "tt2805712"}
+      ]},
+      {"name": "Alex Chapple", "imdbId": "nm0152650", "episodes": [
+        {"season": 1, "episode": 2, "title": "Bella", "imdbId": null}
+      ]},
+      {"name": "Randy Zisk", "imdbId": "nm0957198", "episodes": [
+        {"season": 1, "episode": 3, "title": "Takes One to Know One", "imdbId": null}
+      ]},
+      {"name": "David Boyd", "imdbId": "nm0101741", "episodes": [
+        {"season": 1, "episode": 4, "title": "I Am a Bird Now", "imdbId": null}
+      ]},
+      {"name": "Jeff Woolnough", "imdbId": "nm0941276", "episodes": [
+        {"season": 1, "episode": 5, "title": "Bogeyman", "imdbId": null}
+      ]},
+      {"name": "Sarah Pia Anderson", "imdbId": "nm0027413", "episodes": [
+        {"season": 1, "episode": 6, "title": "Ancient, Chinese, Secret", "imdbId": null}
+      ]},
+      {"name": "Jace Alexander", "imdbId": "nm0003167", "episodes": [
+        {"season": 1, "episode": 7, "title": "Enemy of My Enemies", "imdbId": null}
+      ]},
+      {"name": "Rob Hardy", "imdbId": null, "episodes": [
+        {"season": 1, "episode": 8, "title": "Give 'Til It Hurts", "imdbId": null}
+      ]},
+      {"name": "Michael Offer", "imdbId": "nm0644397", "episodes": [
+        {"season": 1, "episode": 9, "title": "The Inescapable Truth", "imdbId": null}
+      ]},
+      {"name": "Kevin Hooks", "imdbId": "nm0393661", "episodes": [
+        {"season": 1, "episode": 10, "title": "Love Is a Rose and You Better Not Pick It", "imdbId": null},
+        {"season": 1, "episode": 13, "title": "Rock Bottom", "imdbId": null}
+      ]},
+      {"name": "Adam Arkin", "imdbId": "nm0035060", "episodes": [
+        {"season": 1, "episode": 11, "title": "I Like to Watch", "imdbId": null}
+      ]},
+      {"name": "Jeffrey Walker", "imdbId": "nm0907835", "episodes": [
+        {"season": 1, "episode": 12, "title": "Corkscrewed", "imdbId": null}
+      ]}
+    ]
+  }
+]

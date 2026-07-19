@@ -1,0 +1,2002 @@
+{
+"tv_series":
+    [        
+			{
+				"name": "Dollhouse",
+				"imdbId": "tt1135300",
+				"start_date": "13-Feb-2009",
+				"end_date": "29-Jan-2010",
+				"season_count": 2,
+				"seasons": [
+					{
+						"season_number": 1,
+						"season_aired": "13-Feb-2009",
+						"episode_count": 13,
+						"episodes": [
+							{
+								"id": "tt1216522",
+								"name": "Ghost",
+								"date_aired": "13-Feb-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1216523",
+								"name": "The Target",
+								"date_aired": "20-Feb-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Eleanor Penn",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1216524",
+								"name": "Stage Fright",
+								"date_aired": "27-Feb-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Jordan",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Audra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1216525",
+								"name": "Gray Hour",
+								"date_aired": "06-Mar-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Taffy",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Taffy",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1216526",
+								"name": "True Believer",
+								"date_aired": "13-Mar-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Esther Carpenter",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1216528",
+								"name": "Man on the Street",
+								"date_aired": "20-Mar-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Rebecca Mynor",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Anton Lubov",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1216527",
+								"name": "Echoes",
+								"date_aired": "27-Mar-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1356321",
+								"name": "Needs",
+								"date_aired": "03-Apr-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "November / Mellie",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1356322",
+								"name": "A Spy in the House of Love",
+								"date_aired": "10-Apr-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Sherlock",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Roger",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1356323",
+								"name": "Haunted",
+								"date_aired": "24-Apr-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Margaret Bashford",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1356324",
+								"name": "Briar Rose",
+								"date_aired": "01-May-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Susan",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0876138",
+										"characterName": "Stephen Kepler / Alpha",
+										"actorFirstName": "Alan",
+										"actorLastName": "Tudyk",
+										"actorFullName": "Alan Tudyk",
+										"type": "guest star"
+									}
+								]
+							},
+							{
+								"id": "tt1356325",
+								"name": "Omega",
+								"date_aired": "08-May-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0876138",
+										"characterName": "Alpha",
+										"actorFirstName": "Alan",
+										"actorLastName": "Tudyk",
+										"actorFullName": "Alan Tudyk",
+										"type": "guest star"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1420849",
+								"name": "Epitaph One",
+								"date_aired": "28-Jul-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders / Whiskey",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							}
+						]
+					},
+					{
+						"season_number": 2,
+						"season_aired": "25-Sep-2009",
+						"episode_count": 13,
+						"episodes": [
+							{
+								"id": "tt1486217",
+								"name": "Vows",
+								"date_aired": "25-Sep-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Jenny",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders / Whiskey",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Mellie / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1486218",
+								"name": "Instinct",
+								"date_aired": "02-Oct-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Emily Bennet",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Madeline / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1486219",
+								"name": "Belle Chose",
+								"date_aired": "09-Oct-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Crystal",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Drew Chilton",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1486220",
+								"name": "Belonging",
+								"date_aired": "23-Oct-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Anthony Ceccoli",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Priya Tsetsang",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1524040",
+								"name": "The Public Eye",
+								"date_aired": "04-Dec-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Madeline Costley / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0219206",
+										"characterName": "Senator Daniel Perrin",
+										"actorFirstName": "Alexis",
+										"actorLastName": "Denisof",
+										"actorFullName": "Alexis Denisof",
+										"type": "guest star"
+									},
+									{
+										"imdbId": "nm1132359",
+										"characterName": "Bennett Halverson",
+										"actorFirstName": "Summer",
+										"actorLastName": "Glau",
+										"actorFullName": "Summer Glau",
+										"type": "guest star"
+									}
+								]
+							},
+							{
+								"id": "tt1524041",
+								"name": "The Left Hand",
+								"date_aired": "04-Dec-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Topher Brink",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0219206",
+										"characterName": "Senator Daniel Perrin",
+										"actorFirstName": "Alexis",
+										"actorLastName": "Denisof",
+										"actorFullName": "Alexis Denisof",
+										"type": "guest star"
+									},
+									{
+										"imdbId": "nm1132359",
+										"characterName": "Bennett Halverson",
+										"actorFirstName": "Summer",
+										"actorLastName": "Glau",
+										"actorFullName": "Summer Glau",
+										"type": "guest star"
+									}
+								]
+							},
+							{
+								"id": "tt1524042",
+								"name": "Meet Jane Doe",
+								"date_aired": "11-Dec-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Jane Doe",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1524043",
+								"name": "A Love Supreme",
+								"date_aired": "11-Dec-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Alice",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0876138",
+										"characterName": "Alpha",
+										"actorFirstName": "Alan",
+										"actorLastName": "Tudyk",
+										"actorFullName": "Alan Tudyk",
+										"type": "guest star"
+									}
+								]
+							},
+							{
+								"id": "tt1524044",
+								"name": "Stop-Loss",
+								"date_aired": "18-Dec-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Anthony Ceccoli",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Priya Tsetsang",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1524045",
+								"name": "The Attic",
+								"date_aired": "18-Dec-2009",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Anthony Ceccoli",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Priya Tsetsang",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0224703",
+										"characterName": "Laurence Dominic",
+										"actorFirstName": "Reed",
+										"actorLastName": "Diamond",
+										"actorFullName": "Reed Diamond",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1613668",
+								"name": "Getting Closer",
+								"date_aired": "08-Jan-2010",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders / Whiskey",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Priya Tsetsang",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Madeline / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1132359",
+										"characterName": "Bennett Halverson",
+										"actorFirstName": "Summer",
+										"actorLastName": "Glau",
+										"actorFullName": "Summer Glau",
+										"type": "guest star"
+									}
+								]
+							},
+							{
+								"id": "tt1613669",
+								"name": "The Hollow Men",
+								"date_aired": "15-Jan-2010",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders / Whiskey",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Anthony Ceccoli",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Priya Tsetsang",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Madeline / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							},
+							{
+								"id": "tt1613670",
+								"name": "Epitaph Two: Return",
+								"date_aired": "29-Jan-2010",
+								"cast": [
+									{
+										"imdbId": "nm0244630",
+										"characterName": "Echo / Caroline Farrell",
+										"actorFirstName": "Eliza",
+										"actorLastName": "Dushku",
+										"actorFullName": "Eliza Dushku",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0502015",
+										"characterName": "Boyd Langton",
+										"actorFirstName": "Harry",
+										"actorLastName": "Lennix",
+										"actorFullName": "Harry Lennix",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0469823",
+										"characterName": "Topher Brink",
+										"actorFirstName": "Fran",
+										"actorLastName": "Kranz",
+										"actorFullName": "Fran Kranz",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0671886",
+										"characterName": "Paul Ballard",
+										"actorFirstName": "Tahmoh",
+										"actorLastName": "Penikett",
+										"actorFullName": "Tahmoh Penikett",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0931404",
+										"characterName": "Adelle DeWitt",
+										"actorFirstName": "Olivia",
+										"actorLastName": "Williams",
+										"actorFullName": "Olivia Williams",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm0009918",
+										"characterName": "Dr. Claire Saunders / Whiskey",
+										"actorFirstName": "Amy",
+										"actorLastName": "Acker",
+										"actorFullName": "Amy Acker",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2222175",
+										"characterName": "Victor / Anthony Ceccoli",
+										"actorFirstName": "Enver",
+										"actorLastName": "Gjokaj",
+										"actorFullName": "Enver Gjokaj",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm1901842",
+										"characterName": "Sierra / Priya Tsetsang",
+										"actorFirstName": "Dichen",
+										"actorLastName": "Lachman",
+										"actorFullName": "Dichen Lachman",
+										"type": "regular"
+									},
+									{
+										"imdbId": "nm2829954",
+										"characterName": "Madeline / November",
+										"actorFirstName": "Miracle",
+										"actorLastName": "Laurie",
+										"actorFullName": "Miracle Laurie",
+										"type": "regular"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+    ]
+}

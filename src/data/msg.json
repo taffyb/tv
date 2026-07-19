@@ -1,0 +1,7 @@
+{"Schema_Version":"001.08",
+"ipf_processing_context_checkpoint":"MESSAGE_LOG|e5c08245-2475-47e9-81a6-bec221d76fc6|76da5725-729b-439a-a8f1-2cbb57fe74c8",
+"ipf_processing_context_client_request_id":"9990153TP4661202",
+"ipf_processing_context_unit_of_work_id":"e5c08245-2475-47e9-81a6-bec221d76fc6",
+"Schema":"pacs.008",
+"ipf_processing_context_processing_entity":"001",
+"Cinnamon-MDC":"\u0000\u0000\u0000\u0005\u0000\u0000\u0000U\u0000\u0000\u0000!ipf_processing_context_checkpoint\u0000\u0000\u0000UMESSAGE_LOG|e5c08245-2475-47e9-81a6-bec221d76fc6|bd6c7162-d38c-4504-b8be-8a0642bcf9bd\u0000\u0000\u0000&ipf_processing_context_unit_of_work_id\u0000\u0000\u0000$e5c08245-2475-47e9-81a6-bec221d76fc6\u0000\u0000\u0000(ipf_processing_context_client_request_id\u0000\u0000\u0000\u00109990153TP4661202\u0000\u0000\u0000(ipf_processing_context_processing_entity\u0000\u0000\u0000\u0003001\u0000\u0000\u0000%ipf_processing_context_association_id\u0000\u0000\u00005IPClearingV13|e5c08245-2475-47e9-81a6-bec221d76fc6-DS588c2dfab67a-CR\u0000\u0000\u0000\tbluegreen\u0000\u0000\u0000\u0006LATEST\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","ipf_processing_context_association_id":"IPClearingV13|e5c08245-2475-47e9-81a6-bec221d76fc6-DS","Mandator":"001","ProcessingEntity":"001"}
